@@ -1,4 +1,4 @@
-# flutter_linux
+# linux
 
 A new Flutter project.
 
